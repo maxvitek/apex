@@ -20,9 +20,8 @@ Usage
 Contributions
 -------------
 
-Please contribute.  I think it would be cool to see if
-the pyd3 library could add some nice charting.  At the
-very least, more and better data extraction.
+#. Let's get the xml data off the server and return a pandas dataframe.
+#. What else?
 
 
 .. _Neptune Systems Apex Aquacontroller: http://www.neptunesystems.com/products/apex-controllers/apex-controller-system/
